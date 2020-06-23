@@ -1,7 +1,7 @@
 
-# Readme generator
+# Readme Generator
 ## Description:
-* Creates Readme file
+* This generator helps you create a good Readme.md file for your project.
 ## Table of Content:
 * [Installation] (#installation)
 * [License] (#license)
@@ -12,12 +12,14 @@
 ## Installation:
 * 1
 ## License:
-* MIT
+* none	
 ## Contributors:
-* Sangeeta
+* Sangeeta	
 ## Tests:
 * undefined
 ## Do you have github profile picture?
-* Yes
+* Yes!!
 ## Enter your Github email: 
-* undefined
+* san20hal@gmail.com
+## Badge 
+* ![APM](https://img.shields.io/apm/l/github?style=for-the-badge)

@@ -79,7 +79,7 @@ function generateMarkdown(answers) {
 ## Enter your Github email: 
 * ${answers.email}
 ## Badge 
-* https://img.shields.io/apm/l/github?style=for-the-badge
+* ![APM](https://img.shields.io/apm/l/github?style=for-the-badge)
 `;
 }
 
